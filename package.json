@@ -1,6 +1,6 @@
 {
   "name": "ui-modules-rlpopup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ui-modules-rlpopup on frontend relbas",
   "main": "rlpopup.js",
   "scripts": {
