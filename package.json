@@ -1,0 +1,28 @@
+{
+  "name": "ui-modules-rlpopup",
+  "version": "1.0.0",
+  "description": "ui-modules-rlpopup on frontend relbas",
+  "main": "rlpopup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "module",
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Womhla6s/ui-modules-rlpopup.git"
+  },
+  "author": "Womhla6s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Womhla6s/ui-modules-rlpopup/issues"
+  },
+  "homepage": "https://github.com/Womhla6s/ui-modules-rlpopup#readme",
+  "dependencies": {
+    "ui-modules-rl": "^1.0.0"
+  }
+}
