@@ -1,6 +1,6 @@
 {
   "name": "@womhla6s/ui-modules-rlpopup",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ui-modules-rlpopup on frontend relbas",
   "main": "rlpopup.js",
   "scripts": {
