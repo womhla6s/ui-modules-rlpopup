@@ -14,15 +14,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Womhla6s/ui-modules-rlpopup.git"
+    "url": "https://github.com/womhla6s/ui-modules-rlpopup.git"
   },
-  "author": "Womhla6s",
-  "license": "ISC",
+  "author": "womhla6s",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Womhla6s/ui-modules-rlpopup/issues"
+    "url": "https://github.com/womhla6s/ui-modules-rlpopup/issues"
   },
-  "homepage": "https://github.com/Womhla6s/ui-modules-rlpopup#readme",
+  "homepage": "https://github.com/womhla6s/ui-modules-rlpopup#readme",
   "dependencies": {
-    "ui-modules-rl": "^1.0.0"
+    "@womhla6s/ui-modules-cli": "^1.0.0"
   }
 }
